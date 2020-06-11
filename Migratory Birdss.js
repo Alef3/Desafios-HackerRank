@@ -27,7 +27,7 @@ function migratoryBirds(arr) {
     let vetor = [t1, t2, t3, t4, t5]
 	
 	//verifica qual tipo de pássaro é o mais comum	
-  let maisComum = 0
+  	let maisComum = 0
 	for(let k = 0; k < vetor.length; k++){
         if(maisComum < vetor[k]){
             maisComum = vetor[k]
