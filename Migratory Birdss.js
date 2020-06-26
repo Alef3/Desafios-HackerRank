@@ -1,4 +1,3 @@
-<script>
 'use strict';
 
 function migratoryBirds(arr) {
@@ -47,4 +46,3 @@ function migratoryBirds(arr) {
 return document.write(menorid)
 }
 migratoryBirds([1,3,5,5,5,3,1,4,4,4,4,4,1,3,2,3,1])
-</script>
